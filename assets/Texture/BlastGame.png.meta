@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a93036d3-43fd-4d10-80a9-8f9097515f6b",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 619,
+  "height": 110,
+  "platformSettings": {},
+  "subMetas": {
+    "BlastGame": {
+      "ver": "1.0.6",
+      "uuid": "6caccc32-b5fa-4a6b-9745-39543d1f13ec",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a93036d3-43fd-4d10-80a9-8f9097515f6b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 8,
+      "trimY": 8,
+      "width": 604,
+      "height": 95,
+      "rawWidth": 619,
+      "rawHeight": 110,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
