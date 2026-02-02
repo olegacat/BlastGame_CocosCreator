@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Scene/BlastGame.fire",orientation:"portrait",jsList:[],bundleVers:{internal:"d17e2",main:"8c3bc"}};
